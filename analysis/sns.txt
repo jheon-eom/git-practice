@@ -6,4 +6,8 @@ SNS 키워드 분석 추가
 
 ----------------
 
+git merge test #1
+
+----------------
+
 git merge test v4
